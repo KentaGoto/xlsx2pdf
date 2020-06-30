@@ -8,7 +8,7 @@ A PDF will be generated with the basename of the target \*.xlsx. Therefore, if a
 ## Usage  
 ```
 $ xlsx2pdf.py
-Dir: 
+Dir: <Drop folder>
 ```
 
 ## Screen image  
