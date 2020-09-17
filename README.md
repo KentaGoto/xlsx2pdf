@@ -15,3 +15,6 @@ Dir: <Drop folder>
 ## Requires  
 - Excel (32bit)
 - Python3
+
+## License
+MIT
