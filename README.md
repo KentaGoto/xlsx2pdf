@@ -18,3 +18,6 @@ Dir: <Drop folder>
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
